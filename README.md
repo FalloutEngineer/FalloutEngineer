@@ -6,8 +6,8 @@
 
 ## My Experience
 
-- 0.5 | year as a React Native developer
-- 2.5 | years as a freelance FullStack Wordpress (PHP) developer
+- 0.5 year | as a React Native developer
+- 2.5 years | as a freelance FullStack Wordpress (PHP) developer
 - Currently | FullStack Developer (React, Nest, Node, TypeScript)
 
 ## 🛠️ Tech Stack
