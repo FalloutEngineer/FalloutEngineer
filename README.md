@@ -1,16 +1,25 @@
-## Hi there 👋
+## Vladyslav Voichenko - FullStack Engineer
 
-<!--
-**FalloutEngineer/FalloutEngineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Links
 
-Here are some ideas to get you started:
+[LinkedIn](https://www.linkedin.com/in/vladyslav-voichenko/)
+[Persolan website](https://falloutengineer-portfolio.vercel.app/)
+[Medium](https://medium.com/@vladvoychenko)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Experience
+
+- 0.5 | year as a React Native developer
+- 2.5 | years as a freelance FullStack Wordpress (PHP) developer
+- Currently | FullStack Developer (React, Nest, Node, TypeScript)
+
+## 🛠️ Tech Stack
+
+- 🖥️ Frontend: HTML, CSS, JavaScript (JS), TypeScript (TS), React, React Native, Redux, Next.js, PWA
+- 💿 Backend: Node.js, Nest.js, Express.js, MongoDB, PostgreSQL, MySQL, Prisma, Redis
+- 🧪 Testing: Jest / Vitest, Postman
+- 🗄️ DevOps: Docker
+- ⚙️ Other: Git (GitHub, GitLab), Webpack, Vite, Swagger, Figma, Photoshop
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FalloutEngineer&layout=compact&hide_border=true&theme=radical)
