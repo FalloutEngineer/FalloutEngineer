@@ -1,10 +1,8 @@
 ## Vladyslav Voichenko - FullStack Engineer
 
-## Links
-
-[LinkedIn](https://www.linkedin.com/in/vladyslav-voichenko/)
-[Persolan website](https://falloutengineer-portfolio.vercel.app/)
-[Medium](https://medium.com/@vladvoychenko)
+- [LinkedIn](https://www.linkedin.com/in/vladyslav-voichenko/)
+- [Personal website](https://falloutengineer-portfolio.vercel.app/)
+- [Medium](https://medium.com/@vladvoychenko)
 
 ## My Experience
 
