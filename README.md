@@ -12,10 +12,11 @@
 
 ## 🛠️ Tech Stack
 
-- 🖥️ Frontend: HTML, CSS, JavaScript (JS), TypeScript (TS), React, React Native, Redux, Next.js, PWA
+- ⌨️ General: JavaScript (JS), TypeScript (TS)
+- 🖥️ Frontend: HTML, CSS, React, React Native, Redux, Next.js, PWA
 - 💿 Backend: Node.js, Nest.js, Express.js, MongoDB, PostgreSQL, MySQL, Prisma, Redis
 - 🧪 Testing: Jest / Vitest, Postman
-- 🗄️ DevOps: Docker
+- 🗄️ DevOps: Docker, Nginx, GitLab CI/CD, 
 - ⚙️ Other: Git (GitHub, GitLab), Webpack, Vite, Swagger, Figma, Photoshop
 
 ## 📊 GitHub Stats
