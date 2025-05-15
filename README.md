@@ -1,3 +1,5 @@
+[![FalloutEngineer profile views](https://u8views.com/api/v1/github/profiles/36712813/views/day-week-month-total-count.svg)](https://u8views.com/github/FalloutEngineer)
+
 ## Vladyslav Voichenko - FullStack Engineer
 
 - [LinkedIn](https://www.linkedin.com/in/vladyslav-voichenko/)
@@ -23,4 +25,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FalloutEngineer&layout=compact&hide_border=true&theme=radical)
 
-[![FalloutEngineer profile views](https://u8views.com/api/v1/github/profiles/36712813/views/day-week-month-total-count.svg)](https://u8views.com/github/FalloutEngineer)
+
