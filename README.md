@@ -10,7 +10,7 @@
 
 - 0.5 year | React Native developer
 - 2.5 years | FullStack developer (Node, React, JavaScript, TypeScript, PHP, Wordpress)
-- Currently | FullStack Developer (React, Nest, Node, TypeScript)
+- Currently | FullStack Developer (Node, Nest, JavaScript, TypeScript, React)
 
 ## 🛠️ Tech Stack
 
