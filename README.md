@@ -8,15 +8,15 @@
 
 ## My Experience
 
-- 0.5 year | as a React Native developer
-- 2.5 years | as a freelance FullStack Wordpress (PHP) developer
+- 0.5 year | React Native developer
+- 2.5 years | FullStack developer (Node, React, JavaScript, TypeScript, PHP, Wordpress)
 - Currently | FullStack Developer (React, Nest, Node, TypeScript)
 
 ## 🛠️ Tech Stack
 
 - ⌨️ General: JavaScript (JS), TypeScript (TS)
-- 🖥️ Frontend: HTML, CSS, React, React Native, Redux, Next.js, PWA
 - 💿 Backend: Node.js, Nest.js, Express.js, MongoDB, PostgreSQL, MySQL, Prisma, Redis
+- 🖥️ Frontend: HTML, CSS, React, React Native, Redux, Next.js, PWA
 - 🧪 Testing: Jest / Vitest, Postman
 - 🗄️ DevOps: Docker, Nginx, GitLab CI/CD, 
 - ⚙️ Other: Git (GitHub, GitLab), Webpack, Vite, Swagger, Figma, Photoshop
